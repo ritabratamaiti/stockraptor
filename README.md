@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## STOCK RAPTOR
 
-You can use the [editor on GitHub](https://github.com/ritabratamaiti/stockraptor/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Stock Raptor combines an Artificial Intelligence powered dashboard with a stock ticker.
+*Stock Raptor is currently in an open beta with free access!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* STOCK RAPTOR USES ARTIFICIAL INTELLIGENCE TO READ THE NEWS AND DETERMINE MARKET SENTIMENT
+An on-board Artificial Intelligence platform gauges market sentiment and presents the data to the user as a Stock Raptor forecast.
 
-### Markdown
+* CONTINOUSLY UPDATED AND ACCURATE STOCK TICKER
+Stock Raptor uses the Morningstar API to obtain accurate stock security price data.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ritabratamaiti/stockraptor/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* INTUITIVE AND EASY TO USE UI
+The user interface is clean and minimalist, yet is quite powerful despite being beginner friendly!
